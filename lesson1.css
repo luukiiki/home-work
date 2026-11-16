@@ -1,0 +1,39 @@
+* {
+    background-color: blue;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.a img  {
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.b img {
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.c img  {
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.d img {
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.e img {
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
